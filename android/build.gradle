@@ -31,7 +31,14 @@ android {
         main.java.srcDirs += 'src/main/kotlin'
     }
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 21
+
+        externalNativeBuild {
+            cmake {
+                cppFlags "-frtti -fexceptions -std=c++11"
+                abiFilters 'armeabi-v7a', 'arm64-v8a'
+            }
+        }
     }
     lintOptions {
         disable 'InvalidPackage'
