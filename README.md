@@ -1,14 +1,5 @@
-# native_with_opencv
+# How to use OpenCV 4 in native C++ of Flutter (in 2021) (support Flutter 2.0)?
 
-A new flutter plugin project.
+Corresponding code for the answer to the question https://stackoverflow.com/questions/63127202/how-to-use-opencv-4-in-native-c-of-flutter-in-2021-support-flutter-2-0/63127203
 
-## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Please give the StackOverflow answer a upvote if you think it useful ;)
