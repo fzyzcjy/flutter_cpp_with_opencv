@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.4.1)
+cmake_minimum_required(VERSION 3.10.0)
 
 # TODO please change me!
 set(OPENCV_BASE_DIR "/Users/tom/Others/OpenCVRelease/OpenCV-android-sdk")
