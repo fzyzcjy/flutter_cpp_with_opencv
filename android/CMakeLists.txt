@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10.0)
 
 # TODO please change me!
-set(OPENCV_BASE_DIR "/Users/georgiu/Downloads/OpenCV-android-sdk")
+set(OPENCV_BASE_DIR "/Users/tom/Others/OpenCVRelease/OpenCV-android-sdk")
 
 set(OPENCV_INCLUDE_DIR "${OPENCV_BASE_DIR}/sdk/native/jni/include/")
 set(OPENCV_STATIC_LIB_DIR "${OPENCV_BASE_DIR}/sdk/native/staticlibs/${ANDROID_ABI}")
